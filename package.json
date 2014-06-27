@@ -1,6 +1,6 @@
 {
   "name": "game_server",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "my game server module",
   "main": "game_server.js",
   "directories": {
@@ -14,6 +14,10 @@
     "game",
     "server"
   ],
+  "dependencies": {
+    "socket.io": "^0.9.17"
+  },
+  "readmeFilename": "README.md",
   "author": "Zalo",
   "license": "ISC"
 }
