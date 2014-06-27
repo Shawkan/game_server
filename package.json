@@ -1,0 +1,19 @@
+{
+  "name": "game_server",
+  "version": "0.0.0",
+  "description": "my game server module",
+  "main": "game_server.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "server"
+  ],
+  "author": "Zalo",
+  "license": "ISC"
+}
